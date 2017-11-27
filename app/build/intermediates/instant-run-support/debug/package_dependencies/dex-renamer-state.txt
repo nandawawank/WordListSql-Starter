@@ -1,0 +1,25 @@
+#Mon Nov 27 15:21:36 ICT 2017
+renamed.7=classes8.dex
+renamed.6=classes.dex
+renamed.5=classes3.dex
+renamed.4=classes5.dex
+renamed.3=classes2.dex
+renamed.2=classes4.dex
+renamed.1=classes7.dex
+renamed.0=classes6.dex
+base.7=D\:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-24.1.1_3e8588d99a8b60194081a50907e32c80e7838b1a
+base.6=D\:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0aa3cf372ff8e2ed539233cf27da2a0b717277d0
+base.5=D\:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6b14921dcf10da8344fab961caaab0d258fac440
+base.4=D\:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d0c02b3f27d651cce18d6a9828eca0c3a82bf339
+base.3=D\:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1c77887422c97db384b5281063eee0689b5881a2
+base.2=D\:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_72d965017fb95be71c905c0085496b51581052f1
+base.1=D\:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-24.1.1_279f8c2c28b4b4f901bd6956c22ba54e5cd35c0b
+base.0=D\:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ee8b6511f6c0e6213a68958c901bfc5233871a21
+file.7=D\:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-24.1.1_3e8588d99a8b60194081a50907e32c80e7838b1a\\classes.dex
+file.6=D\:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0aa3cf372ff8e2ed539233cf27da2a0b717277d0\\classes.dex
+file.5=D\:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6b14921dcf10da8344fab961caaab0d258fac440\\classes.dex
+file.4=D\:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d0c02b3f27d651cce18d6a9828eca0c3a82bf339\\classes.dex
+file.3=D\:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1c77887422c97db384b5281063eee0689b5881a2\\classes.dex
+file.2=D\:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_72d965017fb95be71c905c0085496b51581052f1\\classes.dex
+file.1=D\:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-24.1.1_279f8c2c28b4b4f901bd6956c22ba54e5cd35c0b\\classes.dex
+file.0=D\:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ee8b6511f6c0e6213a68958c901bfc5233871a21\\classes.dex
