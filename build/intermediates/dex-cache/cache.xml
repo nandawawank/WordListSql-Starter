@@ -3,93 +3,111 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\MU-03\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
-        <dex dex="D:\Nanda Wawan K\WordListSql-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_3e8588d99a8b60194081a50907e32c80e7838b1a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Nanda Wawan K\WordListSql-Starter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="D:\Nanda Wawan K\WordListSql-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8ab23b2c835764474e20fb5571d66e431496d083\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Nanda Wawan K\WordListSql-Starter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="850926758b785a9f0e37c1efdcdbdf472dd1e994">
-        <dex dex="D:\Nanda Wawan K\WordListSql-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7326aca7fb54cdc9ed2ba252236a61532e0f59e9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\MU-03\.android\build-cache\a9bf615ce9f527bdaafa78557df28223c0168650\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
-        <dex dex="D:\Nanda Wawan K\WordListSql-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72d965017fb95be71c905c0085496b51581052f1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\MU-03\.android\build-cache\3669dc2c1a234e1122eaf6a7719587fd84c98adc\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="787871951412550519b0222aba3c9df4cea49875">
-        <dex dex="D:\Nanda Wawan K\WordListSql-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee8b6511f6c0e6213a68958c901bfc5233871a21\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\MU-03\.android\build-cache\609e68700d5f7ce24d5929aec7e72a9be219cf16\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
-        <dex dex="D:\Nanda Wawan K\WordListSql-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c77887422c97db384b5281063eee0689b5881a2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\MU-03\.android\build-cache\cf305560dd4645ef7e5ec18ded38ba8713a77896\output\jars\libs\internal_impl-24.1.1.jar"
+        jar="/home/nandawk/.android/build-cache/ad99a0637a086706080c24a7028c32f072f6a090/output/jars/libs/internal_impl-24.1.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
-        <dex dex="D:\Nanda Wawan K\WordListSql-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_279f8c2c28b4b4f901bd6956c22ba54e5cd35c0b\classes.dex" />
+        <dex dex="/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_71fc9da2350176d058378b279e0347105f298914/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\MU-03\.android\build-cache\a69f5545b840e1d0ff2ee5c06c481f5e0abfb26f\output\jars\classes.jar"
+        jar="/home/nandawk/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_ad3ce4bdef0fee3081a0c04fccc48281cf963549/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nandawk/.android/build-cache/48b1873fc00ddcf13f88748137c3cd139602bba3/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
-        <dex dex="D:\Nanda Wawan K\WordListSql-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b14921dcf10da8344fab961caaab0d258fac440\classes.dex" />
+        <dex dex="/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e66410518a026c419db5d03204cb2fe9e23f8b5/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\MU-03\.android\build-cache\cf305560dd4645ef7e5ec18ded38ba8713a77896\output\jars\classes.jar"
+        jar="/home/nandawk/.android/build-cache/fa77658a728bc8eec1a837623c396079e292922b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e9345fe42f6ff916f7a497853001ae12645aeab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3938b921d2475ac94f58ee92272c5e32d0e2a230/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nandawk/.android/build-cache/ad99a0637a086706080c24a7028c32f072f6a090/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="6d7d803871e3203465f71a163e7af104f807b446">
-        <dex dex="D:\Nanda Wawan K\WordListSql-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0aa3cf372ff8e2ed539233cf27da2a0b717277d0\classes.dex" />
+        <dex dex="/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fea44de4f2ce4086d0049a123883c1024e6663aa/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\MU-03\.android\build-cache\674c2ed3286cae416474098a89c9acd5cfbdbbc2\output\jars\classes.jar"
+        jar="/home/nandawk/.android/build-cache/2eb0898ca7cc0b9c065aef1edb8641c2e1e1b89e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e2454c39a2e3460987aac54f71d09f6a7ae5d392/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nandawk/.android/build-cache/12bb160936ecc102532a97100bd0ffd0010292ad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25bfe7c015090aefceafc5bc4c0f90f1feb1f011/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0bb47fb0c4285426527ecf6123da4682a09f0c38">
+        <dex dex="/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f0c89fc72a80bd5e0c11bfdb37f5ffa46ebea8df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3938b921d2475ac94f58ee92272c5e32d0e2a230/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b686f595f6d1d123822d2c400d98e19afa28b1a">
+        <dex dex="/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f0c89fc72a80bd5e0c11bfdb37f5ffa46ebea8df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nandawk/.android/build-cache/b1254315fe8d76557ed4fa5e0938d1344732b9c4/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="f62e763609f65e47dc6c498760a4accf02776788">
-        <dex dex="D:\Nanda Wawan K\WordListSql-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0c02b3f27d651cce18d6a9828eca0c3a82bf339\classes.dex" />
+        <dex dex="/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f4c7113c108cd53296661c4bbef04d3b99b049b/classes.dex" />
     </item>
 
 </items>

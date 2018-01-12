@@ -1,7 +1,7 @@
-#Mon Nov 27 15:21:36 ICT 2017
-base.0=D\:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8ab23b2c835764474e20fb5571d66e431496d083
+#Tue Nov 28 06:22:34 WIB 2017
+base.0=/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3938b921d2475ac94f58ee92272c5e32d0e2a230
 renamed.1=classes2.dex
 renamed.0=classes.dex
-file.1=D\:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7326aca7fb54cdc9ed2ba252236a61532e0f59e9\\classes.dex
-base.1=D\:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7326aca7fb54cdc9ed2ba252236a61532e0f59e9
-file.0=D\:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8ab23b2c835764474e20fb5571d66e431496d083\\classes.dex
+file.1=/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f0c89fc72a80bd5e0c11bfdb37f5ffa46ebea8df/classes.dex
+base.1=/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f0c89fc72a80bd5e0c11bfdb37f5ffa46ebea8df
+file.0=/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3938b921d2475ac94f58ee92272c5e32d0e2a230/classes.dex

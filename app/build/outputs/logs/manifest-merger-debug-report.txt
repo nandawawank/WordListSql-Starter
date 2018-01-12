@@ -1,66 +1,66 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml:16:1-38:12
+ADDED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml:16:1-38:12
 	package
-		ADDED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml:18:5-46
-		INJECTED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml
+		ADDED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml:18:5-46
+		INJECTED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml:17:5-63
+		ADDED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml:17:5-63
 	android:versionCode
-		INJECTED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml
 application
-ADDED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml:20:5-36:19
-MERGED from [com.android.support:design:24.1.1] C:\Users\MU-03\.android\build-cache\a9bf615ce9f527bdaafa78557df28223c0168650\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\MU-03\.android\build-cache\609e68700d5f7ce24d5929aec7e72a9be219cf16\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\MU-03\.android\build-cache\a69f5545b840e1d0ff2ee5c06c481f5e0abfb26f\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\MU-03\.android\build-cache\674c2ed3286cae416474098a89c9acd5cfbdbbc2\output\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-v4:24.1.1] C:\Users\MU-03\.android\build-cache\cf305560dd4645ef7e5ec18ded38ba8713a77896\output\AndroidManifest.xml:25:5-20
+ADDED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml:20:5-36:19
+MERGED from [com.android.support:design:24.1.1] /home/nandawk/.android/build-cache/eb7bd61e43124d1b25cc7a93945895a8226a49b0/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] /home/nandawk/.android/build-cache/9ca3b4f36c78bc4cda32d5d553fb4ff04d6f5eb1/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /home/nandawk/.android/build-cache/5ab16aa3a98de5e97180ee7a120e8667e8ef1396/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /home/nandawk/.android/build-cache/58dfa3a214bae5db00c46d963b0431a9f56e653c/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] /home/nandawk/.android/build-cache/4fc0f8c2d01bea583872f511a6cfdfbff0b5d34b/output/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml:23:9-41
+		ADDED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml:23:9-41
 	android:supportsRtl
-		ADDED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml:24:9-35
+		ADDED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml:24:9-35
 	android:allowBackup
-		ADDED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml:21:9-35
+		ADDED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml:21:9-35
 	android:icon
-		ADDED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml:22:9-43
+		ADDED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml:22:9-43
 	android:theme
-		ADDED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml:25:9-40
+		ADDED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml:25:9-40
 activity#com.android.example.wordlistsql.MainActivity
-ADDED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml:26:9-33:20
+ADDED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml:26:9-33:20
 	android:name
-		ADDED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml:26:19-47
+		ADDED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml:26:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml:27:13-31:29
+ADDED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
-ADDED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml:28:17-69
+ADDED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml:28:25-66
+		ADDED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml:30:17-77
+ADDED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml:30:27-74
+		ADDED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml:30:27-74
 activity#com.android.example.wordlistsql.EditWordActivity
-ADDED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml:34:9-63
+ADDED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml:34:9-63
 	android:name
-		ADDED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml:34:19-51
+		ADDED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml:34:19-51
 uses-sdk
-INJECTED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:24.1.1] C:\Users\MU-03\.android\build-cache\a9bf615ce9f527bdaafa78557df28223c0168650\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:24.1.1] C:\Users\MU-03\.android\build-cache\3669dc2c1a234e1122eaf6a7719587fd84c98adc\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:24.1.1] C:\Users\MU-03\.android\build-cache\609e68700d5f7ce24d5929aec7e72a9be219cf16\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:24.1.1] C:\Users\MU-03\.android\build-cache\a69f5545b840e1d0ff2ee5c06c481f5e0abfb26f\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.1.1] C:\Users\MU-03\.android\build-cache\674c2ed3286cae416474098a89c9acd5cfbdbbc2\output\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-v4:24.1.1] C:\Users\MU-03\.android\build-cache\cf305560dd4645ef7e5ec18ded38ba8713a77896\output\AndroidManifest.xml:21:5-23:54
+INJECTED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.1.1] /home/nandawk/.android/build-cache/eb7bd61e43124d1b25cc7a93945895a8226a49b0/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.1.1] /home/nandawk/.android/build-cache/4f20a17fe5e940b8bbbad8a93e100010efa80f3e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.1.1] /home/nandawk/.android/build-cache/9ca3b4f36c78bc4cda32d5d553fb4ff04d6f5eb1/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /home/nandawk/.android/build-cache/5ab16aa3a98de5e97180ee7a120e8667e8ef1396/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /home/nandawk/.android/build-cache/58dfa3a214bae5db00c46d963b0431a9f56e653c/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.1] /home/nandawk/.android/build-cache/4fc0f8c2d01bea583872f511a6cfdfbff0b5d34b/output/AndroidManifest.xml:21:5-23:54
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.1.1] C:\Users\MU-03\.android\build-cache\609e68700d5f7ce24d5929aec7e72a9be219cf16\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:24.1.1] /home/nandawk/.android/build-cache/9ca3b4f36c78bc4cda32d5d553fb4ff04d6f5eb1/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Nanda Wawan K\WordListSql-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/src/main/AndroidManifest.xml

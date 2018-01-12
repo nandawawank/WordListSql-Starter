@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/nandawk/.android/build-cache/b310ce99bf5bb23dfc25f522f06dd73faf778867/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/nandawk/.android/build-cache/b310ce99bf5bb23dfc25f522f06dd73faf778867/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/nandawk/.android/build-cache/b310ce99bf5bb23dfc25f522f06dd73faf778867/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/nandawk/.android/build-cache/b310ce99bf5bb23dfc25f522f06dd73faf778867/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

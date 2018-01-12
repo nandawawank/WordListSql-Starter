@@ -1,66 +1,66 @@
 [
     {
-        "merged": "D:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\MU-03\\.android\\build-cache\\a9bf615ce9f527bdaafa78557df28223c0168650\\output\\res\\anim\\design_fab_out.xml"
+        "merged": "/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/nandawk/.android/build-cache/9ca3b4f36c78bc4cda32d5d553fb4ff04d6f5eb1/output/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "D:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\MU-03\\.android\\build-cache\\609e68700d5f7ce24d5929aec7e72a9be219cf16\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/nandawk/.android/build-cache/9ca3b4f36c78bc4cda32d5d553fb4ff04d6f5eb1/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "D:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\MU-03\\.android\\build-cache\\609e68700d5f7ce24d5929aec7e72a9be219cf16\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/nandawk/.android/build-cache/9ca3b4f36c78bc4cda32d5d553fb4ff04d6f5eb1/output/res/anim/abc_fade_out.xml"
     },
     {
-        "merged": "D:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\MU-03\\.android\\build-cache\\609e68700d5f7ce24d5929aec7e72a9be219cf16\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/nandawk/.android/build-cache/eb7bd61e43124d1b25cc7a93945895a8226a49b0/output/res/anim/design_fab_out.xml"
     },
     {
-        "merged": "D:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\MU-03\\.android\\build-cache\\609e68700d5f7ce24d5929aec7e72a9be219cf16\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/nandawk/.android/build-cache/9ca3b4f36c78bc4cda32d5d553fb4ff04d6f5eb1/output/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "D:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\MU-03\\.android\\build-cache\\609e68700d5f7ce24d5929aec7e72a9be219cf16\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/nandawk/.android/build-cache/9ca3b4f36c78bc4cda32d5d553fb4ff04d6f5eb1/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "D:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\MU-03\\.android\\build-cache\\a9bf615ce9f527bdaafa78557df28223c0168650\\output\\res\\anim\\design_snackbar_in.xml"
+        "merged": "/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/nandawk/.android/build-cache/eb7bd61e43124d1b25cc7a93945895a8226a49b0/output/res/anim/design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "D:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\MU-03\\.android\\build-cache\\a9bf615ce9f527bdaafa78557df28223c0168650\\output\\res\\anim\\design_snackbar_out.xml"
+        "merged": "/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/nandawk/.android/build-cache/9ca3b4f36c78bc4cda32d5d553fb4ff04d6f5eb1/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "D:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\MU-03\\.android\\build-cache\\609e68700d5f7ce24d5929aec7e72a9be219cf16\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/nandawk/.android/build-cache/9ca3b4f36c78bc4cda32d5d553fb4ff04d6f5eb1/output/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "D:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\MU-03\\.android\\build-cache\\a9bf615ce9f527bdaafa78557df28223c0168650\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+        "merged": "/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/nandawk/.android/build-cache/eb7bd61e43124d1b25cc7a93945895a8226a49b0/output/res/anim/design_fab_in.xml"
     },
     {
-        "merged": "D:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\MU-03\\.android\\build-cache\\609e68700d5f7ce24d5929aec7e72a9be219cf16\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/nandawk/.android/build-cache/9ca3b4f36c78bc4cda32d5d553fb4ff04d6f5eb1/output/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "D:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\MU-03\\.android\\build-cache\\609e68700d5f7ce24d5929aec7e72a9be219cf16\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/nandawk/.android/build-cache/eb7bd61e43124d1b25cc7a93945895a8226a49b0/output/res/anim/design_snackbar_in.xml"
     },
     {
-        "merged": "D:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\MU-03\\.android\\build-cache\\609e68700d5f7ce24d5929aec7e72a9be219cf16\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/nandawk/.android/build-cache/9ca3b4f36c78bc4cda32d5d553fb4ff04d6f5eb1/output/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "D:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\MU-03\\.android\\build-cache\\a9bf615ce9f527bdaafa78557df28223c0168650\\output\\res\\anim\\design_fab_in.xml"
+        "merged": "/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/nandawk/.android/build-cache/eb7bd61e43124d1b25cc7a93945895a8226a49b0/output/res/anim/design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "D:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\MU-03\\.android\\build-cache\\609e68700d5f7ce24d5929aec7e72a9be219cf16\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/nandawk/.android/build-cache/eb7bd61e43124d1b25cc7a93945895a8226a49b0/output/res/anim/design_snackbar_out.xml"
     },
     {
-        "merged": "D:\\Nanda Wawan K\\WordListSql-Starter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\MU-03\\.android\\build-cache\\a9bf615ce9f527bdaafa78557df28223c0168650\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+        "merged": "/home/nandawk/AndroidStudioProjects/WordListSql-Starter/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/nandawk/.android/build-cache/9ca3b4f36c78bc4cda32d5d553fb4ff04d6f5eb1/output/res/anim/abc_slide_out_bottom.xml"
     }
 ]
